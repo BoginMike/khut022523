@@ -13,6 +13,9 @@ body {
                   }
                   
                  .logo {
+                    background-color: white;
+                    border: 1 px, solid white;
+                    border-radius: 50px;
                     display: flex;
                     align-items: center;
                 }
@@ -102,6 +105,8 @@ body {
                 }
 
                 #about p {
+                  display: flexbox;
+                  background-color: white;
                   font-size: 38px;
                   font-weight: bold;
                 }
